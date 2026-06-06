@@ -25,3 +25,6 @@ print(f)
 
 g = 1 and 0
 print(g)
+
+h = not 1
+print(h)
