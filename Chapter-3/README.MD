@@ -89,7 +89,7 @@ print(name.lower())
 print(name.capitalize())
 print(name.replace("python", "Python"))
 ```
-## Escape Sequence Characters
+### 6. Escape Sequence Characters
 
 ```text
 \n   # New Line
@@ -126,7 +126,6 @@ print(name.replace("python", "Python"))
 
 ```python
 letter = "Dear Harry, this python course is nice. Thanks!"
-```
 ```
 
 
