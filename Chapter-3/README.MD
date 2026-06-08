@@ -89,54 +89,47 @@ print(name.lower())
 print(name.capitalize())
 print(name.replace("python", "Python"))
 ```
-### Escape Sequence Characters
+## Escape Sequence Characters
 
-```python
+```text
 \n   # New Line
 \t   # Tab
 \\   # Backslash
 \'   # Single Quote
 \"   # Double Quote
+```
 
 ## What I Learned
 
-* What is a string
-* String indexing
-* Positive slicing
-* Negative slicing
-* Skip value slicing
-* String methods and functions
-* String manipulation basics
-
-
+```text
+✓ What is a string
+✓ String indexing
+✓ Positive slicing
+✓ Negative slicing
+✓ Skip value slicing
+✓ String methods and functions
+✓ String manipulation basics
+```
 
 ## Practice Set
 
-### Question 1
-Write a Python program to display a user-entered name followed by **"Good Afternoon"** using the `input()` function.
+```text
+1. Write a Python program to display a user-entered name followed by Good Afternoon using the input() function.
 
-### Question 2
-Write a program to fill in a letter template given below with a name and date.
+2. Write a program to fill in a letter template given below with a name and date.
 
-```python
-letter = '''
-Dear <|Name|>,
+3. Write a program to detect double spaces in a string.
 
-You are selected!
+4. Replace the double spaces from problem 3 with single spaces.
 
-<|Date|>
-'''
-```
-
-### Question 3
-Write a Python program to detect double spaces in a string.
-
-### Question 4
-Write a Python program to replace the double spaces found in Question 3 with single spaces.
-
-### Question 5
-Write a Python program to format the following letter using escape sequence characters.
+5. Write a program to format a letter using escape sequence characters.
 
 ```python
 letter = "Dear Harry, this python course is nice. Thanks!"
 ```
+```
+
+
+
+
+
