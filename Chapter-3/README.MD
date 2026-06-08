@@ -89,6 +89,14 @@ print(name.lower())
 print(name.capitalize())
 print(name.replace("python", "Python"))
 ```
+### Escape Sequence Characters
+
+```python
+\n   # New Line
+\t   # Tab
+\\   # Backslash
+\'   # Single Quote
+\"   # Double Quote
 
 ## What I Learned
 
@@ -117,15 +125,15 @@ You are selected!
 <|Date|>
 '''
 
-Write a program to detect double spaces in a string.
-Replace the double spaces from Problem 3 with single spaces.
-Write a program to format the following letter using escape sequence characters.
-letter = "Dear Chandan, this python course is nice. Thanks!"
+### Question 3
+Write a Python program to detect double spaces in a string.
 
-What I Practiced
-Taking user input using input()
-String replacement using replace()
-Finding text using find()
-Working with string templates
-Detecting and removing extra spaces
-Using escape sequence characters (\n, \t, \\, \", \')
+### Question 4
+Write a Python program to replace the double spaces found in Question 3 with single spaces.
+
+### Question 5
+Write a Python program to format the following letter using escape sequence characters.
+
+```python
+letter = "Dear Harry, this python course is nice. Thanks!"
+```
