@@ -112,9 +112,11 @@ print(name.replace("python", "Python"))
 
 ## Practice Set
 
-1. Write a Python program to display a user-entered name followed by **"Good Afternoon"** using the `input()` function.
+### Question 1
+Write a Python program to display a user-entered name followed by **"Good Afternoon"** using the `input()` function.
 
-2. Write a program to fill in a letter template given below with a name and date.
+### Question 2
+Write a program to fill in a letter template given below with a name and date.
 
 ```python
 letter = '''
@@ -124,6 +126,7 @@ You are selected!
 
 <|Date|>
 '''
+```
 
 ### Question 3
 Write a Python program to detect double spaces in a string.
