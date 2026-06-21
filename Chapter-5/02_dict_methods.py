@@ -11,3 +11,6 @@ marks = {
 
 marks.update({"chandan" : 99, "vipul" : 85})
 print(marks)
+
+print(marks.get("chandan2")) # Get none if key is not present
+print(marks["chandan2"]) # print(marks["unknown"]) # KeyError if key is not present
